@@ -1,0 +1,9 @@
+$ git push --set-upstream origin guillermo
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'guillermo' on GitHub by visiting:
+remote:      https://github.com/xoan04/Piloto/pull/new/guillermo
+remote:
+To https://github.com/xoan04/Piloto
+ * [new branch]      guillermo -> guillermo
+branch 'guillermo' set up to track 'origin/guillermo'.
